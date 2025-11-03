@@ -69,7 +69,8 @@ int main(int argc, char *argv[]) {
     close(in);
     close(out);
     return EXIT_SUCCESS;
-}```
+}
+```
 
 ## 2.To Write a C program that illustrates files locking
 ```
@@ -136,7 +137,8 @@ int main(int argc, char *argv[]) {
 
     close(fd);
     return 0;
-}```
+}
+```
 
 ## OUTPUT
 ## 1.To Write a C program that illustrates files copying
